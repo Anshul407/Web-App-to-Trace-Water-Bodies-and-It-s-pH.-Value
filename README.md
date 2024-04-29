@@ -19,6 +19,8 @@ This project focuses on utilizing satellite imagery data to trace water bodies a
 2. Run the provided Google Earth Engine code to calculate NDWI and estimate pH values.
 3. Follow deployment instructions to host the web application and interactively trace water bodies and explore pH values.
 
+## Project Link
+<a>https://ee-kunwaranshul7739-collab.projects.earthengine.app/view/waterph</a>
 ## References:
 - Google Earth Engine
 - Landsat 8 Data
